@@ -1,3 +1,5 @@
+'use strict';
+
 var hello=require('./hello');
 
 var expect=require('chai').expect;
